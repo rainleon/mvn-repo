@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.codehaus.mojo</groupId>
+  <artifactId>wagon-maven-plugin</artifactId>
+  <versioning>
+    <latest>1.0-beta-5-snapshot-uploads-1.7-SNAPSHOT</latest>
+    <versions>
+      <version>1.0-beta-5-snapshot-uploads-1.7-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170119070328</lastUpdated>
+  </versioning>
+</metadata>
